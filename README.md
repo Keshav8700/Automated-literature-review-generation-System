@@ -1,4 +1,4 @@
-# 📚 AI-Based Automated Literature Review Generation System
+# 📚 Automated Literature Review Generation System
 
 > Automatically search research papers, generate structured literature reviews, and export formatted PDFs — all powered by free AI. Built with Python, Flask, and Llama 3.3-70B.
 
