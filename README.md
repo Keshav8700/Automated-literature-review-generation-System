@@ -44,8 +44,7 @@ No paid subscriptions. No installations except Python. Completely free.
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/litreview-ai.git
-cd litreview-ai
+git clone https://github.com/Keshav8700/Automated-literature-review-generation-System
 ```
 
 ### Step 2 — Install Python Dependencies
